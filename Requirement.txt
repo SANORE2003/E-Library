@@ -1,0 +1,1 @@
+MongoDB -> C:\Users\sanja>"C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe" --dbpath "C:\Users\sanja\OneDrive\Documents\S7\FULL STACK\Project\Demo\db"

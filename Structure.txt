@@ -1,0 +1,37 @@
+Frontend
+vite-project/
+├── index.html                                                                                                 
+├── package.json
+├── vite.config.js
+└── src/
+|    ├── components/
+|    │   ├── Home.jsx
+|    │   ├── Login.jsx
+|    │   ├── Register.jsx
+|    │   ├── MainPage.jsx
+|    │   └── BookDetails.jsx
+|    ├── App.jsx
+|    ├── main.jsx
+|    |
+|    └── index.css
+|__.env
+
+
+
+
+
+Backend
+ |__BOOKS
+ |__models
+ |   |__Book
+ |   |_User
+ |__node_modules
+ |__routes
+ |   |__auth
+ |   |__books
+ |__server.js
+ |_.env
+ |_package
+ |_package-lock
+ 
+__________________________________________________________________________________________________________________________________________________________
